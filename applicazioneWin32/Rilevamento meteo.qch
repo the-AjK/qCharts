@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCHART>
+    <titoloGrafico>Rilevamento meteo</titoloGrafico>
+    <labelX>Anno 2012</labelX>
+    <showLabelX>1</showLabelX>
+    <labelY>gradi C</labelY>
+    <showLabelY>1</showLabelY>
+    <chartType>3</chartType>
+    <rows>12</rows>
+    <columns>4</columns>
+    <titoloSerie0>Mesi(L)</titoloSerie0>
+    <coloreSerie0>#330bcb</coloreSerie0>
+    <serie0dato0>Gennaio</serie0dato0>
+    <serie0dato1>Febbraio</serie0dato1>
+    <serie0dato2>Marzo</serie0dato2>
+    <serie0dato3>Aprile</serie0dato3>
+    <serie0dato4>Maggio</serie0dato4>
+    <serie0dato5>Giugno</serie0dato5>
+    <serie0dato6>Luglio</serie0dato6>
+    <serie0dato7>Agosto</serie0dato7>
+    <serie0dato8>Settembre</serie0dato8>
+    <serie0dato9>Ottobre</serie0dato9>
+    <serie0dato10>Novembre</serie0dato10>
+    <serie0dato11>Dicembre</serie0dato11>
+    <titoloSerie1>Arabba</titoloSerie1>
+    <coloreSerie1>#a1105e</coloreSerie1>
+    <serie1dato0>-10</serie1dato0>
+    <serie1dato1>5</serie1dato1>
+    <serie1dato2>8.5</serie1dato2>
+    <serie1dato3>13</serie1dato3>
+    <serie1dato4>15</serie1dato4>
+    <serie1dato5>17</serie1dato5>
+    <serie1dato6>20</serie1dato6>
+    <serie1dato7>25</serie1dato7>
+    <serie1dato8>0</serie1dato8>
+    <serie1dato9>llo</serie1dato9>
+    <serie1dato10>lll</serie1dato10>
+    <serie1dato11>lll</serie1dato11>
+    <titoloSerie2>Padova</titoloSerie2>
+    <coloreSerie2>#4cec03</coloreSerie2>
+    <serie2dato0>5</serie2dato0>
+    <serie2dato1>6.5</serie2dato1>
+    <serie2dato2>8</serie2dato2>
+    <serie2dato3>13</serie2dato3>
+    <serie2dato4>17</serie2dato4>
+    <serie2dato5>24</serie2dato5>
+    <serie2dato6>29</serie2dato6>
+    <serie2dato7>34</serie2dato7>
+    <serie2dato8>28.5</serie2dato8>
+    <serie2dato9>22</serie2dato9>
+    <serie2dato10>17</serie2dato10>
+    <serie2dato11>9.5</serie2dato11>
+    <titoloSerie3>Sahara</titoloSerie3>
+    <coloreSerie3>#4c73e6</coloreSerie3>
+    <serie3dato0>mmm</serie3dato0>
+    <serie3dato1>lop</serie3dato1>
+    <serie3dato2>43.5</serie3dato2>
+    <serie3dato3>46</serie3dato3>
+    <serie3dato4>48</serie3dato4>
+    <serie3dato5>46.5</serie3dato5>
+    <serie3dato6>50</serie3dato6>
+    <serie3dato7>47.5</serie3dato7>
+    <serie3dato8>46</serie3dato8>
+    <serie3dato9>47</serie3dato9>
+    <serie3dato10>45</serie3dato10>
+    <serie3dato11>44.5</serie3dato11>
+    <labelColumn>0</labelColumn>
+    <showLabelSerie>1</showLabelSerie>
+</QCHART>

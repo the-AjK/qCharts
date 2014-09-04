@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCHART>
+    <titoloGrafico>Breakeven point</titoloGrafico>
+    <labelX>Anni</labelX>
+    <showLabelX>1</showLabelX>
+    <labelY>ciao</labelY>
+    <showLabelY>0</showLabelY>
+    <chartType>0</chartType>
+    <rows>4</rows>
+    <columns>3</columns>
+    <titoloSerie0>Anni(L)</titoloSerie0>
+    <coloreSerie0>#d6ae52</coloreSerie0>
+    <serie0dato0>0</serie0dato0>
+    <serie0dato1>1</serie0dato1>
+    <serie0dato2>2</serie0dato2>
+    <serie0dato3>3</serie0dato3>
+    <titoloSerie1>Costi</titoloSerie1>
+    <coloreSerie1>#0c3e99</coloreSerie1>
+    <serie1dato0>0</serie1dato0>
+    <serie1dato1>15000</serie1dato1>
+    <serie1dato2>25900</serie1dato2>
+    <serie1dato3>53700</serie1dato3>
+    <titoloSerie2>Ricavi</titoloSerie2>
+    <coloreSerie2>#47deb3</coloreSerie2>
+    <serie2dato0>0</serie2dato0>
+    <serie2dato1>10000</serie2dato1>
+    <serie2dato2>25000</serie2dato2>
+    <serie2dato3>60000</serie2dato3>
+    <labelColumn>0</labelColumn>
+    <showLabelSerie>0</showLabelSerie>
+</QCHART>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCHART>
+    <titoloGrafico>Batman</titoloGrafico>
+    <labelX>Colori</labelX>
+    <showLabelX>1</showLabelX>
+    <labelY>num</labelY>
+    <showLabelY>0</showLabelY>
+    <chartType>3</chartType>
+    <rows>20</rows>
+    <columns>1</columns>
+    <titoloSerie0>Number(L)</titoloSerie0>
+    <coloreSerie0>#696624</coloreSerie0>
+    <serie0dato0>50</serie0dato0>
+    <serie0dato1>120</serie0dato1>
+    <serie0dato2>60</serie0dato2>
+    <serie0dato3>300</serie0dato3>
+    <serie0dato4>310</serie0dato4>
+    <serie0dato5>320</serie0dato5>
+    <serie0dato6>310</serie0dato6>
+    <serie0dato7>300</serie0dato7>
+    <serie0dato8>267</serie0dato8>
+    <serie0dato9>50</serie0dato9>
+    <serie0dato10>200</serie0dato10>
+    <serie0dato11>50</serie0dato11>
+    <serie0dato12>267</serie0dato12>
+    <serie0dato13>300</serie0dato13>
+    <serie0dato14>310</serie0dato14>
+    <serie0dato15>320</serie0dato15>
+    <serie0dato16>310</serie0dato16>
+    <serie0dato17>300</serie0dato17>
+    <serie0dato18>60</serie0dato18>
+    <serie0dato19>120</serie0dato19>
+    <labelColumn>0</labelColumn>
+    <showLabelSerie>1</showLabelSerie>
+</QCHART>

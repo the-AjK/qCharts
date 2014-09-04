@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>immagini/menuArrow.png</file>
+        <file>immagini/qChartsIcona.png</file>
+        <file>immagini/qChartsLogo.png</file>
+    </qresource>
+</RCC>
